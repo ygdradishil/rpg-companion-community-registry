@@ -1485,5 +1485,18 @@
     "github_repo": "Junk-Pyle/5e-Fighting-Styles",
     "repo_url": "https://Junk-Pyle.github.io/5e-Fighting-Styles/",
     "has_system": false
+  },
+  {
+    "name": "Kingdom-Hearts-5e-overhaul-",
+    "description": "Adaptation from the Kingdom Hearts Overhaul By Oathkewpwr, still not the complete overhaul, sorry",
+    "tags": [
+      "5e",
+      "fantasy",
+      "kh"
+    ],
+    "stars": 0,
+    "github_repo": "ygdradishil/Kingdom-Hearts-5e-overhaul-",
+    "repo_url": "https://ygdradishil.github.io/Kingdom-Hearts-5e-overhaul-/",
+    "has_system": false
   }
 ]
