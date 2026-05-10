@@ -1474,5 +1474,16 @@
     "github_repo": "blastervla/pf2e-src-wtd",
     "stars": 0,
     "has_system": false
+  },
+  {
+    "name": "5e-Fighting-Styles",
+    "description": "Added the non 5.5 fighting styles to 5.5",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Junk-Pyle/5e-Fighting-Styles",
+    "repo_url": "https://Junk-Pyle.github.io/5e-Fighting-Styles/",
+    "has_system": false
   }
 ]
